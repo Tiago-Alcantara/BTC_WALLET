@@ -25,13 +25,18 @@ Ele cria:
    ```bash
    git clone https://github.com/seu-usuario/BTC_WALLET.git
    cd BTC_WALLET
+   ```
 
 2. **Instale as dependências:**
    ```bash
       npm install bip32 bip39 bitcoinjs-lib
+   ```
+
+   
  3. *Execute o script:**
    ```bash
-     node src/createWallet.js
+      node src/createWallet.js
+   ```
 
 ## ⚙️ O que o script faz
 
